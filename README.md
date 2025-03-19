@@ -42,9 +42,9 @@ The current state of the code and game is "In Progress..." and the code is funct
 ## Controls
 
 - **Arrow Keys**: Movement (Left/Right) and climbing (Up/Down)
-- **Space**: Jump (double-tap for double jump)
-- **Z**: Melee Attack
-- **X**: Ranged Attack
+- **Up Arrow**: Up Arrow (double-tap for double jump)
+- **Space**: Melee Attack
+- **Right Arrow**: Ranged Attack
 - **ESC**: Pause Game
 - **Q**: Quit to Menu (when paused)
 
